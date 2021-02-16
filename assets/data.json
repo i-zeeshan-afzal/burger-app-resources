@@ -1,0 +1,28 @@
+{
+  "offers": [
+    {
+      "id": 1,
+      "title": "GHOST BURGER",
+      "image_path": "",
+      "description": "Hardwood smoked bacon, spicy ghost pepper cheese"
+    },
+    {
+      "id": 2,
+      "title": "AD&B BURGER",
+      "image_path": "",
+      "description": "Hardwood smoked bacon, white cheddar cheese sauce, caramelized onions, mushrooms, pickle and AD&B sauce"
+    },
+    {
+      "id": 3,
+      "title": "CHEESE BURGER",
+      "image_path": "",
+      "description": "Ketchup, mustard, onion, pickle, lettuce and tomato"
+    },
+    {
+      "id": 3,
+      "title": "TURKEY BURGER",
+      "image_path": "",
+      "description": "Ketchup, mustard, onion, pickle, lettuce and tomato"
+    }
+  ]
+}
